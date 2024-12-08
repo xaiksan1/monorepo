@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="473px" height="147px" viewBox="0 0 473 147" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Wire-3</title>
-    <g id="BitcoinComputer-Landingpage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Network–BlueAndOrange-ColorsSlightlyChanged" transform="translate(-1117.000000, -934.000000)">
-            <g id="Wire-3" transform="translate(1118.355904, 934.747944)">
-                <polyline id="Path-3" stroke="#A7BFFF" points="9.21685121e-14 146.212581 0 16.0042452 8 8.00212258 462.644096 8.00212258 470.644096 -2.44761052e-14"></polyline>
-                <polygon id="Fill-10" fill="#0046FF" transform="translate(55.644096, 8.002123) scale(1, -1) translate(-55.644096, -8.002123) " points="56.0329727 11.5031062 59.144096 8.39115742 59.144096 7.61319773 56.0329727 4.50124895 55.2552193 4.50113896 52.144096 7.61319773 52.144096 8.39115742 55.2552193 11.5031062"></polygon>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="473" height="147" version="1.1" viewBox="0 0 473 147"><title>Wire-3</title><g id="BitcoinComputer-Landingpage" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Network–BlueAndOrange-ColorsSlightlyChanged" transform="translate(-1117.000000, -934.000000)"><g id="Wire-3" transform="translate(1118.355904, 934.747944)"><polyline id="Path-3" stroke="#A7BFFF" points="0 146.213 0 16.004 8 8.002 462.644 8.002 470.644 0"/><polygon id="Fill-10" fill="#0046FF" points="56.033 11.503 59.144 8.391 59.144 7.613 56.033 4.501 55.255 4.501 52.144 7.613 52.144 8.391 55.255 11.503" transform="translate(55.644096, 8.002123) scale(1, -1) translate(-55.644096, -8.002123)"/></g></g></g></svg>
